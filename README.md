@@ -12,5 +12,5 @@ Tenho interesse em desenvolvimento web, análise de dados e cibersegurança.
 - Outros: HTML, CSS, Node.js
 
   ### 🌐 Vamos nos conectar?
-- [LinkedIn](www.linkedin.com/in/alisson-oliveira-8b8102230)  
+- LinkedIn / www.linkedin.com/in/alisson-oliveira-8b8102230
 - 📧 alisson1997fx@gmail.com
