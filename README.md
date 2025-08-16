@@ -1,5 +1,5 @@
 # Design-Profissional-
-Projeto para atividade da faculdade "Cartão de Visita"
+Projeto para atividade da faculdade "Cartão de Visita", aprendendo a importancia e como usar o README.md.
 
 # Olá, eu sou o Alisson 👋  
 Sou estudante de **Ciência da Computação** e apaixonado por tecnologia.  
